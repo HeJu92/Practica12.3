@@ -1,0 +1,30 @@
+div.div1{
+    display: inline-block;
+}
+div#div2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    position: absolute;
+}
+img#img1{
+    left: 32%;
+}
+img#img2{
+    left: 40%;
+}
+img#img3{
+    left: 60%;
+}
+ul{
+    list-style: none;
+    position: absolute;
+    top: 20%
+}
+ul li {
+    display: inline;
+    font-weight: bolder;
+    color: black;
+    padding: 25px;   
+    text-decoration: none;
+}
