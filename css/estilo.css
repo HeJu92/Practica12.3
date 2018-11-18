@@ -20,6 +20,7 @@ ul{
     list-style: none;
     position: absolute;
     top: 20%
+    
 }
 ul li {
     display: inline;
@@ -27,4 +28,11 @@ ul li {
     color: black;
     padding: 25px;   
     text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: lightseagreen;
+    color: white;
 }
